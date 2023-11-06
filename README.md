@@ -24,8 +24,8 @@ To write a C program to implement Page Replacement technique using FIFO
 
 ## PROGRAM:
 ```
-Developed by : AFSAR JUMAIL S
-Register Number : 212222240004
+Developed by : Jeyabalan
+Register Number : 212222240040
 #include<stdio.h>
 int main()
 {
